@@ -1,2 +1,2 @@
 # Arduino-Sprinkler-System
-Personal Sprinkler System
+Home Sprinkler System
